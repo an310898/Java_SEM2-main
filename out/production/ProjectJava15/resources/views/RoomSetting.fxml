@@ -63,10 +63,10 @@
                <content>
                   <AnchorPane prefHeight="577.0" prefWidth="746.0">
                      <children>
-                        <Text layoutX="284.0" layoutY="510.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Room Type Name" />
+                        <Text layoutX="291.0" layoutY="510.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Room Type Name" />
                         <Text layoutX="22.0" layoutY="510.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Room Type ID" />
-                        <TextField layoutX="391.0" layoutY="493.0" prefHeight="25.0" prefWidth="189.0" />
-                        <TextField layoutX="114.0" layoutY="492.0" prefHeight="28.0" prefWidth="130.0" />
+                        <TextField layoutX="400.0" layoutY="493.0" prefHeight="25.0" prefWidth="317.0" />
+                        <TextField layoutX="114.0" layoutY="492.0" prefHeight="28.0" prefWidth="158.0" />
                         <JFXButton layoutX="550.0" layoutY="534.0" prefHeight="24.0" prefWidth="76.0" styleClass="set-type2-btn" stylesheets="@../styles/setButton.css" text="Confirm" />
                         <JFXButton layoutX="641.0" layoutY="534.0" prefHeight="24.0" prefWidth="76.0" styleClass="set-btn" stylesheets="@../styles/setButton.css" text="Delete" />
                         <JFXButton layoutX="456.0" layoutY="534.0" prefHeight="24.0" prefWidth="76.0" styleClass="set-type2-btn" stylesheets="@../styles/setButton.css" text="Add New" />
